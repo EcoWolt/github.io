@@ -1,2 +1,2 @@
-# github.io
+# ecowoltgithub.io
 Сайт компании EcoWolt — сварочные работы
